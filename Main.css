@@ -1,0 +1,21 @@
+.mainPane{
+	-fx-background-color:#424242;
+}
+.menubar{
+	-fx-background-color:#00796B;
+}
+.menubar .label{
+	-fx-text-fill: #212121;
+    -fx-font-weight:bold;
+}
+.menu-item .label{
+    -fx-text-fill: #212121;
+    -fx-font-weight:bold;
+}
+.progressbar{
+	-fx-padding:0 10 10 10;
+}
+.textArea{
+	-fx-padding:10;
+	-fx-background-color:#424242;
+}
