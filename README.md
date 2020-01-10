@@ -15,7 +15,7 @@ The algorithm sorts the lines using merge sort and these hash values and then re
 
 There are two interfaces:
 
-CLI: ![CLI](https://github.com/mahir1010/DuplicateLineRemover/blob/SCRSHOTS/SCRSHOTS/CLI.png)
-GUI: ![GUI](https://github.com/mahir1010/DuplicateLineRemover/blob/SCRSHOTS/SCRSHOTS/Computing%20Hash.png)
+CLI: ![CLI](https://raw.githubusercontent.com/mahir1010/DuplicateLineRemover/SCRSHOTS/SCRSHOTS/CLI.png)
+GUI: ![GUI](https://raw.githubusercontent.com/mahir1010/DuplicateLineRemover/SCRSHOTS/SCRSHOTS/Computing%20Hash.png)
 
-Processed File : ![Processed File](https://github.com/mahir1010/DuplicateLineRemover/blob/SCRSHOTS/SCRSHOTS/Duplicate%20Files%20removed.png)
+Processed File : ![Processed File](https://raw.githubusercontent.com/mahir1010/DuplicateLineRemover/SCRSHOTS/SCRSHOTS/Duplicate%20Files%20removed.png)
